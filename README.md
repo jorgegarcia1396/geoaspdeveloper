@@ -8,4 +8,4 @@ I like to take software components or utilities and combine them to build applic
 
 I am also recently enrolled in the [Master of Applied Geospatial Information Systems and Technologies](https://magist.gis.ucla.edu/) (MAGIST) program provided by UCLA. In this program I am learning a lot of new technology and techniques for processing and analyzing geospatial data, which I hope to use in my current employment.
 
-Check out my [Geospatial Resume](https://geoaspdeveloper.net/Pages/Resume.aspx) to learn more about the skills I have acquired over the last 20+ years of employment. You can download my official resume [here](https://geoaspdeveloper.net/Downloads/Jorge%20A%20Garcia%20-%20Resume%202019.pdf).
+Check out my [Geospatial Resume](https://geospatialweb.dev/Pages/Resume.aspx) to learn more about the skills I have acquired over the last 20+ years of employment. You can download my official resume [here](https://geospatialweb.dev/Downloads/Jorge%20A%20Garcia%20-%20Resume%202019.pdf).
